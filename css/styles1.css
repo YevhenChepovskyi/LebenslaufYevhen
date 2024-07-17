@@ -160,7 +160,7 @@ margin-bottom: 12px;
 /*my projects*/
 .my-ptojects-title {
 font-weight: 700;
-font-size: 22px;
+font-size: 16px;
 line-height: 123%;
 color: #000;
 margin-top: 0px;
@@ -175,7 +175,7 @@ color: #000;
 }
 
 .my-ptojects-list {
-    padding-left: 16px;
+    padding-left: 0px;
 }
 
 .my-projects-item-link {
